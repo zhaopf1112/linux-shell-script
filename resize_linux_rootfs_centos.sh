@@ -1,6 +1,4 @@
 #!/bin/bash
-#by chenjun
-#at 20150916
 #v1.0
 #自动扩展lvm下的文件系统
 
